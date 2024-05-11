@@ -1,10 +1,8 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Jess Hu
+- Marcus Lee
+- Luke Young-Xu
 
-Also, add any files to this repository that you would need as part of your final project submission.
-
-Finally, put any special instructions in this README about how to use your code/notebook.
+No special instructions, thank you :)
